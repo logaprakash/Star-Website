@@ -110,7 +110,7 @@
 
 
 						
-	       <p>Dazzle with code and Squash some prizes..All workshop will be provided knowledge at from very basics!!! A contest will be conducted at end of the workshop which is based on the knowledge of the respective workshop.The winners will get merit certificates with some prizes and all other participants will get participation certificates...The details of the workshop is given below...The participants should bring there laptop from better learning</p>
+	       <p>Dazzle with code   and Squash some prizes..All workshop will be provided knowledge at from very basics!!! A contest will be conducted at end of the workshop which is based on the knowledge of the respective workshop.The winners will get merit certificates with some prizes and all other participants will get participation certificates...The details of the workshop is given below...The participants should bring there laptop from better learning</p>
 					  
 					<ul class="actions">
 							<li>
