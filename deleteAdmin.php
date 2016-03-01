@@ -4,7 +4,7 @@
 						{
 							include 'Config.php';
 							$user=$_POST['user'];
-							$sql = mysql_query("DELETE FROM admin WHERE username='$user'");
+							$sql = mysql_query("Delete from admin Where username='$user'");
 							if($sql)
                             	$Message='DY';
 				        }
