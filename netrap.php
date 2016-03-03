@@ -34,12 +34,12 @@
 			</header>
 								<header class="major">
 						
-					<br>
+				
 				
 						
 					
 					</header>
-                  <div class="row" style="padding-left:100px;padding-right:100px;">
+                  <div class="row" style="padding-left:80px;padding-right:80px;">
                          <div class="4u 12u$(medium)">
 						
 							<section class="box" style="width:750px;">
@@ -69,7 +69,7 @@
 					   <section  style="float:down;">
 						<h2>Why to join Apptholan-2015?</h2>
 						<ul>
-						<li> Software Kit will be provided to all.
+						<li> Software Kits will be provided to all.
 						<li> To get the basic knowledge of programming and increasing creative.
 						<li> All participants will get participation certificates.
 						<li> Winners of the contest will get prizes with merit certificates.
@@ -79,9 +79,9 @@
 						<section >
 						 <h2>Important note:</h2>
 						   <ul>
-						     <li>Every participant must bring there laptop for betterment of there own.
-						     <li>Registration fee-Rs250 must be paid on the first day of the every workshop.
-						     <li>Contest will be conducted on the afternoon session of second day of every workshop.
+						     <li>Every participant must bring their laptops for betterment of there own.
+						     <li>Registration fee-Rs250 must be paid on the first day of every workshop.
+						     <li>Contests will be conducted on the afternoon session of second day for every workshop.
 						   </ul>
 						   <ul class="actions">
 							<li>
