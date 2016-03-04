@@ -60,7 +60,7 @@
 			?>
 						<form action="pay.php" method="post">
 						
-						<input type="text" name="user" id="user" value="" placeholder="Last three digit of conformation id" /><br><br>
+						<input type="text" name="user" id="user" value="" placeholder="Last three digit of conformation id" /><br>
 						<ul class="actions">  
 						        <li><input id="Make" type="submit" name="submit" value="Make payment" class="special" /></li>
                                 <li><input id="Delete" type="submit" name="submit" value="Cancel payment" class="special" /></li>
