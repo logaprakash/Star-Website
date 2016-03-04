@@ -96,32 +96,32 @@
                                       echo "<center><table>
 					<tr>
 					<td>NAME :</td><td>$name</td>
-					<tr>
+					</tr>
 					
 					<tr>
 					<td>REGISTERED EMAIL :</td><td>$email</td>
-					<tr>
+					</tr>
 					
 					<tr>
 					<td>ID:</td><td><b><h1>STARTRZ$id</h1><b></td>
-					<tr>
+					</tr>
 
 
                                         <tr>
 					<td>MOBILE NUMBER :</td><td>$phone</td>
-					<tr>
+					</tr>
 
                                         <tr>
 					<td>LASTLY STUDIED :</td><td>$last_studied</td>
-					<tr>
+					</tr>
                                        
                                         <tr>
 					<td>REGISTERED FOR :</td><td>$total</td>
-					<tr>
+					</tr>
 					
                                         <tr>
 					<td>QUALIFICATION :</td><td>$qualification</td>
-					<tr>
+					</tr> #close tag for tr in table
 					
 					</table></center><br>
 					<b>NOTE:</b>Take a print out this conformation and bring it for the workshop for verification.. 
@@ -159,8 +159,9 @@
                               <INPUT TYPE="button" value="Print this page" onClick="window.print()">
 
 
-				</header>
-				</section>
+				   </header>
+		            </div> <!-- close tag for div-->
+		        </section>
 			
 			
 			
