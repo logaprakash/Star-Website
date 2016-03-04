@@ -70,24 +70,23 @@
 						while($id<=$lId[0]){
 						  $fullrow=mysql_query("SELECT name,username,position FROM admin_details WHERE id='$id'");
 						  $row=mysql_fetch_array($fullrow);
-							 echo " 
+							 echo 
 						  <tr>
 						  
-						  		  <td><img style='width: 55px;
-                   height: 55px;
-                   border-radius: 50%;
-                   overflow: hidden;
-                   padding:5px 4px;' src='images/".$row[1].".jpg'/></td>
+						  <td><img style='width: 55px;
+                                                    height: 55px;
+                                                    border-radius: 50%;
+                                                    overflow: hidden;
+                                                    padding:5px 4px;' src='images/".$row[1].".jpg'/></td>
 						  <td>".$row[0]."</td>
 						  <td>".$row[2]."</td>
 						 <td><ul class='actions'>
-					                        
-											<li><input id='".$row[1]."-submit' type='submit' name='submit' value='About ".$row[1]."' class='special' /></li>
-										</ul></td>
+					      	<li><input id='".$row[1]."-submit' type='submit' name='submit' value='About ".$row[1]."' class='special' /></li>
+			                       	</ul></td>
 						  
 						  </tr>";
 						 $id++;
-						}
+						
 						  
 						  ?>
 						 
