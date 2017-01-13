@@ -6,7 +6,6 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-	
 		<script src="js/jquery.min.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-layers.min.js"></script>
@@ -30,14 +29,12 @@
 						<li><a href="viewStudent.php">View all registered students</a></li>
 						<li><a href="payment.php">Make payment status</a></li>
 						<?php
-						
 						session_start();
                                                 if(!$_SESSION['username'])
                                                      header("Location:login.php");
 						$username=$_SESSION['username'];
 						if($username=='logaprakash')
-						echo "<li><a href='addDelete.php'>Add/delete admin</a></li>"; 
-						
+						echo "<li><a href='addDelete.php'>Add/delete admin</a></li>"; 						
 						?>
 						<li><a href="logout.php" class="button medium">Log out</a></li>						
 					</ul>
@@ -51,7 +48,7 @@
 					    <header class="major">
 						 <form action="adminDetails.php" method="post">
 						<h3>All Admins</h3>
-                          <table>
+                               <table>
 						  <tr>
 						  
 						  <td><b>Profile Picture</b></td>
